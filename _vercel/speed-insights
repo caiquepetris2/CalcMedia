@@ -1,0 +1,1 @@
+pnpm i @vercel/speed-insights
